@@ -17,6 +17,7 @@ const allowedOrigins = [
   // Add localhost for development
   "http://localhost:5174",
   "http://localhost:5173",
+  "https://hl-sports-client.netlify.app", // thêm FE production
   "http://localhost:8081", // iOS simulator
   "http://10.0.2.2:8081", // Android emulator
   "http://10.0.2.2:8000", // Android emulator direct access
